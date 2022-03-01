@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/br/com/ifsp/model/dao/ProdutoDaoImpl.java=UTF-8
+encoding//src/br/com/ifsp/model/jdbc/MercadoDbManager.java=UTF-8
+encoding//src/br/com/ifsp/model/singleton/ConnectionManager.java=UTF-8
+encoding//src/br/com/ifsp/view/Aplicacao.java=UTF-8
